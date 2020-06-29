@@ -11,3 +11,9 @@
 - If public, please check domain name pcsotest.com is ok or any name? please advise
 
 <a href="media/image1.png" target="_blank"><img src="media/image1.png"></a>
+<p>=============</p>
+<img src="media/image1.png">("media/image1.png"){:target="_blank"}
+
+<p>=============</p>
+
+<a href="https://www.google.com/" target="_blank">example</a>
