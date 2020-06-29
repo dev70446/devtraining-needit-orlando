@@ -10,6 +10,4 @@
 
 - If public, please check domain name pcsotest.com is ok or any name? please advise
 
-(please find some screenshot below)
-
-![](RackMultipart20200626-4-1l1nltg_html_3f40c753c684bbf1.png)
+<a href="media/image1.png" target="_blank"><img src="media/image1.png"></a>
