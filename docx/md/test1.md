@@ -16,4 +16,13 @@
 
 <p>=============</p>
 
-<a href="https://www.google.com/" target="_blank">example</a>
+<a onclick="window.open('media/image1.png', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
+  Share Page
+</a>
+
+
+<p>=============</p>
+
+<a onclick="window.open('https://www.google.com', '_blank', 'location=yes,height=570,width=520,scrollbars=yes,status=yes');">
+  Share Page
+</a>
