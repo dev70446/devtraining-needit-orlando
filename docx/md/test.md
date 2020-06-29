@@ -16,5 +16,5 @@
 
 > (please find some screenshot below)
 
-![](--reference-links/media/image1.png){width="6.493055555555555in"
+![](media/image1.png){width="6.493055555555555in"
 height="3.0902777777777777in"}
